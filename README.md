@@ -65,15 +65,11 @@ I created a simple student grade tracker that cleans data, calculates results, a
 ## How to Run
 
 1. Open the file:
+part1_grade_tracker.py
 
-   ```
-   part1_grade_tracker.py
-   ```
 2. Run in terminal:
-
-   ```
-   python part1_grade_tracker.py
-   ```
+ python part1_grade_tracker.py
+   
 
 ---
 
